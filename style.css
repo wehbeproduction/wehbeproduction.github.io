@@ -1,5 +1,5 @@
 .wrapper{
-    background-image:#fff199;background-image:  
+background-image:#fff199;background-image:  
 radial-gradient(at 88% 73%, hsla(128,65%,72%,1) 0, transparent 59%),  
 radial-gradient(at 86% 41%, hsla(154,75%,60%,1) 0, transparent 41%),  
 radial-gradient(at 7% 31%, hsla(208,87%,72%,1) 0, transparent 57%),  
@@ -7,4 +7,7 @@ radial-gradient(at 48% 98%, hsla(196,90%,65%,1) 0, transparent 47%),
 radial-gradient(at 74% 62%, hsla(251,63%,72%,1) 0, transparent 42%),  
 radial-gradient(at 54% 10%, hsla(118,88%,79%,1) 0, transparent 43%),  
 radial-gradient(at 20% 45%, hsla(94,76%,74%,1) 0, transparent 47%);
+height: 100vh;
+width: 100vw;
+top: 0;
 }
